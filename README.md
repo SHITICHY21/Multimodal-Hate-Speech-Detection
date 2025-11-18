@@ -84,5 +84,3 @@ If you use this work in your research, please cite the following paper:
   publisher={Association for Computational Linguistics},
   doi={10.18653/v1/2025.dravidianlangtech-1.68}
 }
-
----
