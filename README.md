@@ -58,16 +58,26 @@ Each sample includes **Text + Raw Audio**, enabling multimodal classification.
 
 ---
 
-## 📊 Results (Macro F1 Score)
+## ⭐ Acknowledgements
 
-| Language  | Macro F1 | Rank |
-|-----------|----------|------|
-| **Malayalam** | **0.2005** | 15 |
-| **Tamil**     | **0.1356** | 16 |
-| **Telugu**    | **0.1465** | 16 |
+We thank the DravidianLangTech 2025 Organizing Committee for dataset access and task support.
 
----
+## 📌 License
 
+This project follows the licensing rules of:
+
+DravidianLangTech 2025 Shared Task Dataset
+
+HuggingFace models used (mBERT, T5, Wav2Vec2, Whisper)
+
+Check individual licenses before commercial use.
+
+
+## 📖 Citation
+
+If you use this work in your research, please cite the following paper:
+
+```bibtex
 @inproceedings{faisal2025mlforge,
   title={Team ML_Forge@DravidianLangTech 2025: Multimodal Hate Speech Detection in Dravidian Languages},
   author={Adnan Faisal and Shiti Chowdhury and Sajib Bhattacharjee and Udoy Das and Samia Rahman and Momtazul Arefin Labib and Hasan Murad},
@@ -78,4 +88,8 @@ Each sample includes **Text + Raw Audio**, enabling multimodal classification.
   publisher={Association for Computational Linguistics},
   doi={10.18653/v1/2025.dravidianlangtech-1.68}
 }
+
+---
+
+
 
