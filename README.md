@@ -65,16 +65,12 @@ We thank the DravidianLangTech 2025 Organizing Committee for dataset access and 
 ## 📌 License
 
 This project follows the licensing rules of:
-
-DravidianLangTech 2025 Shared Task Dataset
-
-HuggingFace models used (mBERT, T5, Wav2Vec2, Whisper)
-
+1. DravidianLangTech 2025 Shared Task Dataset
+2. HuggingFace models used (mBERT, T5, Wav2Vec2, Whisper)
 Check individual licenses before commercial use.
 
 
 ## 📖 Citation
-
 If you use this work in your research, please cite the following paper:
 
 ```bibtex
@@ -90,6 +86,3 @@ If you use this work in your research, please cite the following paper:
 }
 
 ---
-
-
-
